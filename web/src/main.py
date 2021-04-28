@@ -1,4 +1,4 @@
-import CryptoCurrency
+from cryptocurrency import Cryptocurrency
 
-currency = CryptoCurrency.Cryptocurrency()
+currency = Cryptocurrency()
 currency.check_cryptocurrency()
