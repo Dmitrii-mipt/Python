@@ -1,4 +1,6 @@
 import tkinter as tk
+from info import Info
+
 
 class Clicker:
     def __init__(self, parent):
