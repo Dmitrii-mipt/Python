@@ -1,5 +1,5 @@
 import unittest
-from src.cryptocurrency import Cryptocurrency
+from web.src.cryptocurrency import Cryptocurrency
 
 
 class MyTestCase(unittest.TestCase):
